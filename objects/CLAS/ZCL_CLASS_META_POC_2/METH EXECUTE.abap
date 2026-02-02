@@ -1,3 +1,8 @@
 meTHOD execute.
-return.
+return. "test 1
+return. "test 2
+return. "test 3
+return. "test 4
+return. "test 5
+return. "test 6
 eNDMETHOD.
