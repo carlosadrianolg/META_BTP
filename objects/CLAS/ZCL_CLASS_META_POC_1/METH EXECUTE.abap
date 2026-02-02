@@ -1,5 +1,3 @@
   METHOD execute.
-    RETURN.
-    RETURN.
-    RETURN.
+    RETURN. "test
   ENDMETHOD.
