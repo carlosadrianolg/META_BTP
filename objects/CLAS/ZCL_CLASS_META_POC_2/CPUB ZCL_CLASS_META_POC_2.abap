@@ -1,0 +1,8 @@
+CLASS zcl_class_meta_poc_2 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+  meTHODS execute.
