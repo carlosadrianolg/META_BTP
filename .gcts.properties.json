@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ZMETA_POC",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/02F9725CC9DC1FD0BFFA9B3A31179961_0",
     "format": "json",
     "formatVersion": "6",
     "keepClient": "false",
